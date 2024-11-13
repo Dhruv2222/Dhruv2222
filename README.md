@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Doshi</h1>
-<h3 align="center">A passionate data professional</h3>
+<h3 align="center">A passionate computer science professional</h3>
 
-- 🌱 I’m currently looking for **full-time data roles starting January 2025.**
+- 🌱 I’m currently looking for **full-time roles starting January 2025.**
 
 - 💬 Ask me about **Python, SQL, AWS, GCP tools**
 
