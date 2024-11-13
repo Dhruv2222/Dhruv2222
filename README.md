@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently looking for **full-time roles starting January 2025.**
 
-- 💬 Ask me about **Python, SQL, AWS, GCP tools**
+- 💬 Ask me about **Python, Java, SQL, AWS, GCP tools**
 
 - 📫 How to reach me **doshi.dhru@northeastern.edu**
 
